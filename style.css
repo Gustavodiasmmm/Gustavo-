@@ -1,15 +1,17 @@
 body{
-    background-color: blue;
+    background-color: rgb(252, 252, 255);
 }
 
 h1{
     text-align: center;
-    color: brown;
+    color: rgb(247, 244, 244);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
     font-weight: 200;
 }
+
 p{
     font-size: 20px;
-    
 }
+
+im
